@@ -1,0 +1,19 @@
+{
+  "name": "mrs-roboto",
+  "version": "1.0.0",
+  "description": "Mrs Roboto ==============================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurieainley/mrs-roboto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laurieainley/mrs-roboto/issues"
+  },
+  "homepage": "https://github.com/laurieainley/mrs-roboto#readme"
+}
